@@ -1,0 +1,23 @@
+[
+  {"timestamp": "2026-06-01T07:00:00Z", "text": "Quick 20 min jog", "domain": "fitness", "intensity": 0.5},
+  {"timestamp": "2026-06-06T08:00:00Z", "text": "Brief stretching routine", "domain": "fitness", "intensity": 0.3},
+  {"timestamp": "2026-06-12T18:00:00Z", "text": "Gym session: light cardio", "domain": "fitness", "intensity": 0.5},
+  
+  {"timestamp": "2026-06-01T09:00:00Z", "text": "Completed all sprint tasks", "domain": "career", "intensity": 1.0},
+  {"timestamp": "2026-06-02T10:00:00Z", "text": "Paired programming with team", "domain": "career", "intensity": 1.0},
+  {"timestamp": "2026-06-03T11:00:00Z", "text": "Wrote unit tests for new service", "domain": "career", "intensity": 1.0},
+  {"timestamp": "2026-06-04T13:00:00Z", "text": "Fixed critical production bug", "domain": "career", "intensity": 1.2},
+  {"timestamp": "2026-06-05T19:00:00Z", "text": "After-hours sprint: deployed release", "domain": "career", "intensity": 1.5},
+  {"timestamp": "2026-06-06T10:00:00Z", "text": "Refactored legacy logging module", "domain": "career", "intensity": 1.0},
+  {"timestamp": "2026-06-08T09:30:00Z", "text": "Conducted code review for peers", "domain": "career", "intensity": 1.0},
+  {"timestamp": "2026-06-09T19:30:00Z", "text": "After-hours sprint: database optimization", "domain": "career", "intensity": 1.5},
+  {"timestamp": "2026-06-10T14:00:00Z", "text": "Documented all API endpoints", "domain": "career", "intensity": 1.0},
+  
+  {"timestamp": "2026-06-01T10:00:00Z", "text": "Checked bank account balance", "domain": "finance", "intensity": 0.5},
+  {"timestamp": "2026-06-03T11:00:00Z", "text": "Paid utility bill", "domain": "finance", "intensity": 0.5},
+  {"timestamp": "2026-06-05T15:00:00Z", "text": "Looked at stock market graphs", "domain": "finance", "intensity": 0.5},
+  
+  {"timestamp": "2026-06-01T12:00:00Z", "text": "Had lunch with a colleague", "domain": "social", "intensity": 0.8},
+  {"timestamp": "2026-06-01T18:00:00Z", "text": "Attended local developer meetup", "domain": "social", "intensity": 0.9},
+  {"timestamp": "2026-06-02T10:00:00Z", "text": "Called family in the evening", "domain": "social", "intensity": 0.8}
+]

@@ -1,0 +1,10 @@
+{
+  "domain": "finance",
+  "divergence_score": 0.61,
+  "divergence_type": "ASPIRATION_GAP",
+  "confidence": 0.71,
+  "evidence_count": 6,
+  "observation_days": 5,
+  "abstained": false,
+  "abstention_reason": null
+}

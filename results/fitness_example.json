@@ -1,0 +1,10 @@
+{
+  "domain": "fitness",
+  "divergence_score": 0.72,
+  "divergence_type": "OVERSTATEMENT",
+  "confidence": 0.84,
+  "evidence_count": 8,
+  "observation_days": 12,
+  "abstained": false,
+  "abstention_reason": null
+}

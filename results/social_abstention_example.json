@@ -1,0 +1,10 @@
+{
+  "domain": "social",
+  "divergence_score": null,
+  "divergence_type": "INSUFFICIENT_EVIDENCE",
+  "confidence": null,
+  "evidence_count": 4,
+  "observation_days": 2,
+  "abstained": true,
+  "abstention_reason": "observation window too short"
+}
